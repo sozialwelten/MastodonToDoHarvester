@@ -1,6 +1,6 @@
 # Mastodon ToDo Harvester
 
-Ein einfaches Python-Tool für die Kommandozeile, das deine mit #ToDo getaggten Mastodon-Beiträge von mehreren Accounts abruft und in eine CSV-Datei exportiert.
+Ein einfaches Python-Tool für die Kommandozeile, das deine mit #ToDo getaggten Mastodon-Beiträge von mehreren Accounts abruft und in eine CSV-Datei exportiert. Es ist konzipiert für nicht öffentlich gepostete Beiträge (unlisted), weshalb ein Token notwendig ist.
 
 ## Features
 
